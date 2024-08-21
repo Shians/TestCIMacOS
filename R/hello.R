@@ -15,6 +15,7 @@
 
 #' @import Rsamtools
 #' @import GenomicRanges
+#' @export
 hello <- function() {
   print("Hello, world!")
 }
